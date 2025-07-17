@@ -2,7 +2,7 @@ Hi, I'm Andrés
 
 I'm been programming in some capacity for close to ten years now.
 
-In addition to computer I am also very interested in math and design, in particular the way in which we distill and trasmit complicated ideas.
+In addition to computer I am also very interested in math and design, in particular the way in which complicated ideas are distilled and communicated.
 
 Some of the earliest code I wrote was a [TUI in ruby](https://rubygems.org/gems/richter_catalogue) for browsing [Gerhard Richter's](https://en.wikipedia.org/wiki/Gerhard_Richter) catalogue.
 
