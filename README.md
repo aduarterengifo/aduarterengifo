@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Andrés 
 
-<!--
-**aduarterengifo/aduarterengifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm been programming in some capacity for close to ten years now.
 
-Here are some ideas to get you started:
+In addition to computer I am also very interested in math and design, in particular the way in which we distill and trasmit complicated ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the earliest code I wrote was a TUI in ruby [richter-catalogue](https://rubygems.org/gems/richter_catalogue) for browsing [Gerhard Richter's](https://en.wikipedia.org/wiki/Gerhard_Richter) catalogue.
+
+I am still bewildered for why or how it was downloaded 5000 times.
+
+I have used a [convolution](https://github.com/aduarterengifo/virtual-infinite-grid/blob/main/src/m-n-k/win-check-conv-2.ts) to check for the winner of a game of tic-tac-toe.
+
+I have ported an interpreter from a book and I'm working on expand it add first-class support for symbolic differentiation [ts-monkey](https://github.com/aduarterengifo/ts-monkey)
