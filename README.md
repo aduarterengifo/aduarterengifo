@@ -12,6 +12,6 @@ More recently
 
 I have used a [convolution](https://github.com/aduarterengifo/virtual-infinite-grid/blob/main/src/m-n-k/win-check-conv-2.ts) to check for the winner of a game of tic-tac-toe.
 
-I have ported an interpreter from a book to typescript and I'm working on expand it to add first-class support for symbolic differentiation [ts-monkey](https://github.com/aduarterengifo/ts-monkey).
+I have ported an [interpreter](https://github.com/aduarterengifo/ts-monkey) from a book to typescript and I'm working on expanding it to add first-class support for symbolic differentiation.
 
 The interpreter kicked off an heavy interest in programming languages which has me reading books about type theory and logic.
